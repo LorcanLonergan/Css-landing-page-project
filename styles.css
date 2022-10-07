@@ -79,7 +79,7 @@
     display: flex;
     justify-content: center;
     justify-content: space-between;
-    margin-bottom: 100px;
+    padding-bottom: 100px;
 
 }
 
@@ -97,3 +97,18 @@
     height: auto;
 }
 
+.quote{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.quote .container3{
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding: 100px;
+    text-align: center;
+
+}
