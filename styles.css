@@ -90,6 +90,7 @@
 
 .boxes .container2 .box{
     width: 200px;
+    text-align: center;
 }
 
 .boxes .container2 .box img{
@@ -111,4 +112,27 @@
     padding: 100px;
     text-align: center;
 
+}
+
+.call-to-action4 .container{
+    width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f8;
+    padding: 70px 160px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 7px;
+    color: white;
+}
+
+.call-to-action4 .container button{
+    border: 2px solid white;
+    color: white;
+    font-weight: bold;
+    background-color: #3882f8;
+    padding: 5px 50px;
+    font-size: 16px;
+    border-radius: 7px;
 }
